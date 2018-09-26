@@ -1,0 +1,11 @@
+URxvt*loginShell:true
+URxvt*font:xft:Terminus:size=14:bold
+URxvt*background:#000066
+URxvt*foreground:#C0C0C0
+URxvt*scrollBar:false
+URxvt*saveLines:5000
+
+Xft*dpi:100
+Xft*antialias:true
+
+! проверка русского языка :)
